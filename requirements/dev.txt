@@ -1,0 +1,6 @@
+build
+flake8
+pydocstyle
+pytest
+pytest-cov
+notebook
