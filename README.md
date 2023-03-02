@@ -4,15 +4,12 @@
 
 <div align="center">  
   <br>
-  
-  [![PyPI](https://img.shields.io/pypi/v/package-name?color=purple)](https://pypi.org/project/package-name/)
-  ![PyPI - Downloads](https://img.shields.io/pypi/dm/package-name?color=purple)
-  ![PyPI - Status](https://img.shields.io/pypi/status/package-name?color=purple)
-  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ThiagoPanini/package-name?color=purple)
-  ![GitHub Last Commit](https://img.shields.io/github/last-commit/ThiagoPanini/package-name?color=purple)
-  <br>
 
-  ![CI workflow](https://img.shields.io/github/actions/workflow/status/ThiagoPanini/package-name/ci-main.yml?label=ci)
+  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ThiagoPanini/pandora?color=purple)
+  ![GitHub Last Commit](https://img.shields.io/github/last-commit/ThiagoPanini/pandora?color=purple)
+  [![Documentation Status](https://readthedocs.org/projects/pandora/badge/?version=latest)](https://pandora.readthedocs.io/pt/latest/?badge=latest)
+  
+  <br>
 
 </div>
 

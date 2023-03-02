@@ -63,9 +63,15 @@ theme:
 nav:
   - Home:
     - Pandora: index.md
+    - Motivadores: motivadores.md
   - Quickstart:
-    - Features: quickstart/features.md
-    - Primeiros Passos: quickstart/gettingstarted.md
+    - Primeiros Passos: quickstart/inicio.md
+  - Repositório:
+    - Visão Geral: repo/repo.md
+    - Diretório .github: repo/github.md
+    - Diretório docs: repo/docs.md
+    - Diretório package-name: repo/pkgname.md
+    - Diretório requirements: repo/requirements.md
 
 # Extensões do MkDocs
 markdown_extensions:
