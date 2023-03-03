@@ -39,7 +39,6 @@ Ao criar um novo repositório utilizando o *template pandora*, será possível o
 - :crayon: Proposta inicial de documentação via MkDocs com tema material
 - :robot: Workflows do GitHub Actions para automatização de operações
 - :scroll: Templates de issues e pull requests padronizados
-- :books: Padronização de labels do repositório com interface amigável
 
 ___
 

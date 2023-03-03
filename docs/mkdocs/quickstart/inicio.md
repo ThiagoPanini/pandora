@@ -11,12 +11,15 @@ A partir deste ponto, o usuário poderá iniciar o desenvolvimento de seu pacote
 
 O primeiro passo de obtenção dos insumos do projeto *pandora* é o *fork* do repositório original:
 
-??? example "Clique para expandir o vídeo de demonstração"
-
-    :clapper: **Demonstração:**
+??? example "Demonstração: fork do repositório original do template pandora"
 
     ![](https://raw.githubusercontent.com/ThiagoPanini/pandora/main/docs/assets/gifs/pandora-fork-repo.gif)
 
 
 ## Criando Novo Repositório
 
+Com o *template* de repositório em mãos, basta criar novos repositórios baseados no modelo para obter soluções pré configuradas e prontas para iniciação de jornadas de desenvolvimento!
+
+??? example "Demonstração: fork do repositório original do template pandora"
+
+    ![](https://raw.githubusercontent.com/ThiagoPanini/pandora/main/docs/assets/gifs/pandora-new-repo.gif)
