@@ -27,6 +27,6 @@ Com o *template* de repositório em mãos, basta criar novos repositórios basea
 
 ## Conteúdo do Template
 
-:material-alert-decagram:{ .mdx-pulse .warning } Agora que foi possível assistir demonstrações práticas sobre como utilizar o *template pandora* para criação de novos repositsórios pré configurados, é possível navegar sobre detalhes do conteúdo oferecido.
+:material-alert-decagram:{ .mdx-pulse .warning } Fornecidas as demonstrações práticas sobre como utilizar o *template pandora* para criação de novos repositsórios pré configurados, é possível agora navegar sobre detalhes do conteúdo oferecido.
 
 Acesse [Visão Geral do Repositório](../repo/repo.md) para mergulhar a fundo nos insumos técnicos proporcionados no *template*.
