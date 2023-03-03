@@ -23,3 +23,10 @@ Com o *template* de repositório em mãos, basta criar novos repositórios basea
 ??? example "Demonstração: fork do repositório original do template pandora"
 
     ![](https://raw.githubusercontent.com/ThiagoPanini/pandora/main/docs/assets/gifs/pandora-new-repo.gif)
+
+
+## Conteúdo do Template
+
+:material-alert-decagram:{ .mdx-pulse .warning } Agora que foi possível assistir demonstrações práticas sobre como utilizar o *template pandora* para criação de novos repositsórios pré configurados, é possível navegar sobre detalhes do conteúdo oferecido.
+
+Acesse [Visão Geral do Repositório](../repo/repo.md) para mergulhar a fundo nos insumos técnicos proporcionados no *template*.

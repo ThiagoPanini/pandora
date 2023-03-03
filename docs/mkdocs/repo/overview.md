@@ -18,3 +18,5 @@ Além da visão geral dos repositórios disponíveis no modelo proposta de organ
 
 - `pytest.ini`: arquivo de configuração do `pytest` que pode opcionalmente ser utilizado para detalhar especifidades relacionadas aos testes da biblioteca
 - `mkdocs.yml`: arquivo principal de configuração da documentação MkDocs do pacote
+- `setup.py`: arquivo de setup de pacotes Python pré preenchido para o usuário
+- `.gitignore`: arquivo ignore do git com template Python

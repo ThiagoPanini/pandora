@@ -67,7 +67,7 @@ nav:
   - Quickstart:
     - Primeiros Passos: quickstart/inicio.md
   - Repositório:
-    - Visão Geral: repo/repo.md
+    - Visão Geral: repo/overview.md
     - Diretório .github: repo/github.md
     - Diretório docs: repo/docs.md
     - Diretório package-name: repo/pkgname.md
