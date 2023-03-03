@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Pandora é um modelo de repositório do GitHub criado para facilitar a organização e configuração de bibliotecas Python. Se você tem interesse em construir e publicar pacotes Python, o modelo de repositório `pandora` poderá te fornecer todos os insumos necessários para seus primeiros passos nessa jornada.
+Pandora é um modelo de repositório do GitHub criado para facilitar a organização e configuração de outros repositórios utilizados para criação bibliotecas Python. Se você tem interesse em construir e publicar pacotes Python, bastar obter o *template pandora* e começar a criar seus próprios repositórios pré configurados e prontos para uso.
 
 <div align="center">
     <br><img src="https://github.com/ThiagoPanini/pandora/blob/main/docs/assets/imgs/logo.png?raw=true" alt="pandora-logo" width=200 height=200>
@@ -28,11 +28,25 @@ Pandora é um modelo de repositório do GitHub criado para facilitar a organiza�
 
 ___
 
+## Funcionalidades
+
+Ao criar um novo repositório utilizando o *template pandora*, será possível obter:
+
+- :open_file_folder: Organização padronizada de diretórios e arquivos
+- :snake: Arquivo de setup da biblioteca Python pré configurado
+- :crayon: Proposta inicial de documentação via MkDocs com tema material
+- :robot: Workflows do GitHub Actions para automatização de operações
+- :scroll: Templates de issues e pull requests padronizados
+- :books: Padronização de labels do repositório com interface amigável
+
+
 ## Navegando pela Doc
 
 :material-alert-decagram:{ .mdx-pulse .warning } Nesta documentação será possível encontrar importantes detalhes sobre o uso do `pandora` para acelerar o início da construção de bibliotecas Python. Não deixe de navegar pelos links e se servir dessa solução!
 
-- [Quicstart](./quickstart/features.md) para X
+- [Seção Motivadores](./motivadores.md) para compreender o que me fez estruturar o projeto *pandora*
+- [Quickstart](./quickstart/inicio.md) para dar os primeiros passos no uso da solução
+- [Repositório](./repo/repo.md) para detalhes aprofundados sobre o conteúdo do *template*
 
 ## Contatos
 

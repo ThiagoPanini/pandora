@@ -11,6 +11,12 @@ A partir deste ponto, o usuário poderá iniciar o desenvolvimento de seu pacote
 
 O primeiro passo de obtenção dos insumos do projeto *pandora* é o *fork* do repositório original:
 
+??? example "Clique para expandir o vídeo de demonstração"
+
+    :clapper: **Demonstração:**
+
+    ![](https://raw.githubusercontent.com/ThiagoPanini/pandora/main/docs/assets/gifs/pandora-fork-repo.gif)
+
 
 ## Criando Novo Repositório
 
