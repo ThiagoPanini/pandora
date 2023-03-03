@@ -28,6 +28,12 @@ Pandora é um modelo de repositório do GitHub criado para facilitar a organiza�
 
 ___
 
+## Navegando pela Doc
+
+:material-alert-decagram:{ .mdx-pulse .warning } Nesta documentação será possível encontrar importantes detalhes sobre o uso do `pandora` para acelerar o início da construção de bibliotecas Python. Não deixe de navegar pelos links e se servir dessa solução!
+
+- [Quicstart](./quickstart/features.md) para X
+
 ## Contatos
 
 - :fontawesome-brands-github: [@ThiagoPanini](https://github.com/ThiagoPanini)
