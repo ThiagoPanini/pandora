@@ -20,8 +20,8 @@ Pandora é um modelo de repositório do GitHub criado para facilitar a organiza�
   
   <img src="https://img.shields.io/github/last-commit/ThiagoPanini/pandora?color=purple" alt="Shield github last commit">
 
-  <a href='https://pandora.readthedocs.io/pt/latest/?badge=latest'>
-    <img src='https://readthedocs.org/projects/pandora/badge/?version=latest' alt='Documentation Status' />
+  <a href='https://thiagopaninipandora.readthedocs.io/pt/latest/?badge=latest'>
+    <img src='https://readthedocs.org/projects/thiagopaninipandora/badge/?version=latest' alt='Documentation Status'/>
   </a>
 
 </div>
