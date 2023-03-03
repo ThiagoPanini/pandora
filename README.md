@@ -25,14 +25,14 @@ ___
 
 ## O template pandora
 
-Pandora é um modelo de repositório do GitHub criado para facilitar a organização e configuração de bibliotecas Python. Se você tem interesse em construir e publicar pacotes Python, o modelo de repositório pandora poderá te fornecer todos os insumos necessários para seus primeiros passos nessa jornada.
+Pandora é um modelo de repositório do GitHub criado para facilitar a organização e configuração de outros repositórios utilizados para criação bibliotecas Python. Se você tem interesse em construir e publicar pacotes Python, bastar obter o *template pandora* e começar a criar seus próprios repositórios pré configurados e prontos para uso.
 
 > **Note**
 > Agora o *template pandora* possui uma **documentação oficial** no readthedocs! Acesse o [seguinte link](https://pandora.repo.readthedocs.io/pt/latest/) e confira detalhes técnicos de usabilidade, exemplos práticos e muito mais!
 
 ## Funcionalidades
 
-Ao utilizar o modelo de repositório *pandora* para criação de outros repositórios, será possível obter:
+Ao criar um novo repositório utilizando o *template pandora*, será possível obter:
 
 - :open_file_folder: Organização padronizada de diretórios e arquivos
 - :snake: Arquivo de setup da biblioteca Python pré configurado
