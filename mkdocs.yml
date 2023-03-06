@@ -3,8 +3,8 @@ site_name: pandora
 site_url: https://github.com/ThiagoPanini/pandora
 site_author: Thiago Panini
 site_description: >-
-  Funcionalidades relevantes para uso em aplicações construídas
-  e executadas em ambientes de cloud
+  Template de repositório no GitHub para organização e
+  criação de pacotes Python  
 
 # Repositório
 repo_name: ThiagoPanini/pandora
